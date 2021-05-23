@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/java-spring-demo-without-spring-boot.iml" filepath="$PROJECT_DIR$/java-spring-demo-without-spring-boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swedbank-webservice-homework.iml" filepath="$PROJECT_DIR$/swedbank-webservice-homework.iml" />
+    </modules>
+  </component>
+</project>

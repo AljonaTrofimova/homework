@@ -1,0 +1,3 @@
+com\swedbank\webservice\homework\Application.class
+com\swedbank\webservice\homework\config\ApplicationConfig.class
+com\swedbank\webservice\homework\service\WebService.class

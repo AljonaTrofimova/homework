@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.example</groupId>
-  <artifactId>java-spring-demo-without-spring-boot</artifactId>
+  <artifactId>swedbank-webservice-homework</artifactId>
   <version>1.0-SNAPSHOT</version>
 
   <dependencies>
